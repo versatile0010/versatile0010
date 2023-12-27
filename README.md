@@ -1,12 +1,36 @@
-Hi 👋 My name is Jae hyeon Lee
-==============================
+# Jaehyeon Lee
+- **Backend Engineer**
 
-Backend Developer
------------------
 
-🌱 I am a backend developer who is growing every day.
+![mejwh](https://github.com/versatile0010/versatile0010/assets/96612168/afd44276-3b69-40df-a520-d981feabcb17)
 
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
+<div align="center"> Welcome! </div>
 
-### PS
-[![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=versatile0010)](https://solved.ac/{handle}) 
+
+
+📚 **tech stack**
+```sql
+- language
+  - Java
+
+- framework
+  - Spring Boot
+
+- database
+  - RDBMS
+      - MySQL
+      - MariaDB
+  - NoSQL
+      - Redis
+
+- infra
+  - AWS, docker, jib, github actions, jenkins
+
+- cowork
+  - jira, confluence, slack, notion, figma
+```
+
+📞  **contact**
+```yml
+woguns@gmail.com
+```
