@@ -47,7 +47,7 @@ woguns@gmail.com
 ```
 
 ---
-📝 ** Latest Blog posts **
+📝 **Latest Blog posts**
 
 """
 
