@@ -19,10 +19,6 @@ preREADME = """
 # Jaehyeon Lee
 - **Backend Engineer**
 
-![mejwh](https://github.com/versatile0010/versatile0010/assets/96612168/afd44276-3b69-40df-a520-d981feabcb17)
-
-
-
 📚 **tech stack**
 ```sql
 - language
@@ -49,6 +45,9 @@ preREADME = """
 ```yml
 woguns@gmail.com
 ```
+
+---
+📝 **Latested Blog post...**
 
 """
 
