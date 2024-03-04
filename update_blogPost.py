@@ -9,7 +9,7 @@ MAX_NUM = 3
 latest_posts = ""
 
 for idx, entrie in enumerate(rss_feed['entries']):
-  if idx > MAX_NUM:
+  if idx >= MAX_NUM:
      break;
   feed_date = entrie['published_parsed']
   latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
@@ -47,7 +47,7 @@ woguns@gmail.com
 ```
 
 ---
-📝 **Latested Blog posts...**
+📝 ** Latest Blog posts **
 
 """
 
