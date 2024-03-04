@@ -3,10 +3,6 @@
 # Jaehyeon Lee
 - **Backend Engineer**
 
-![mejwh](https://github.com/versatile0010/versatile0010/assets/96612168/afd44276-3b69-40df-a520-d981feabcb17)
-
-
-
 📚 **tech stack**
 ```sql
 - language
@@ -33,6 +29,9 @@
 ```yml
 woguns@gmail.com
 ```
+
+---
+📝 **Latested Blog post...**
 
  - [3/1 - 🌲 계층형 데이터를 효율적으로 다루기 (with Redis Cache)](https://versatile0010.github.io/cache/redis-cache/)
  - [2/24 - 🛩️ 멀티모듈 구조로 전환 및 blue-green 배포 적용기](https://versatile0010.github.io/architecture/daepiro-multimodule-bluegreen/)
