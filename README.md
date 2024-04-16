@@ -5,24 +5,14 @@
 
 📚 **tech stack**
 ```sql
-- language
-  - Java
-
-- framework
-  - Spring Boot
-
-- database
-  - RDBMS
-      - MySQL
-      - MariaDB
-  - NoSQL
-      - Redis
-
-- infra
-  - AWS, docker, jib, github actions, jenkins
-
-- cowork
-  - jira, confluence, slack, notion, figma
+- Java
+- Spring MVC
+- Spring Batch
+- Gradle
+- MySQL
+- Redis
+- AWS
+- Docker
 ```
 
 📞  **contact**
