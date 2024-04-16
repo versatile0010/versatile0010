@@ -1,7 +1,7 @@
 
 
 # Jaehyeon Lee
-- **Backend Engineer**
+- **Server Developer**
 
 📚 **tech stack**
 ```sql
