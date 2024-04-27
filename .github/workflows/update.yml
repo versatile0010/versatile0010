@@ -30,7 +30,7 @@ jobs:
         python update_blogPost.py
     - name: Update README.md file
       run: |
-        git checkout -- README.md
+        git checkout main
         git pull
         git add .
         git diff
