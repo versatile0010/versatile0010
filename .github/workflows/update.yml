@@ -28,6 +28,11 @@ jobs:
     - name: Run Update Python Script
       run: |
         python update_blogPost.py
+    - name: before-step
+      run: |
+        git add README.md
+        git commit -m "update"
+        git pull origin main
     - name: Update README.md file
       run: |
         git pull
