@@ -2,6 +2,7 @@
 
 # Jaehyeon Lee
 - **Backend Engineer**
+  - [🔗 resume](https://drive.google.com/file/d/1t09Q5M0WVUD2hVXPYZ_B9GdTowkSignv/view)
 
 📚 **tech stack**
 ```sql
