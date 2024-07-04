@@ -7,7 +7,6 @@
 ```sql
 - language
   - Java
-  - Kotlin (studying...)
 
 - framework
   - Spring Boot
