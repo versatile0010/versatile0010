@@ -10,6 +10,7 @@
 
 - framework
   - Spring Boot
+  - Kotlin
 
 - database
   - RDBMS
