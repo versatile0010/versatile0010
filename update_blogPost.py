@@ -28,13 +28,9 @@ preREADME = """
 ```yml
 woguns@gmail.com
 ```
-
----
-📝 **Latest Blog posts**
-
 """
 
-resultREADME = f"{preREADME}{latest_posts}"
+#resultREADME = f"{preREADME}{latest_posts}"
 
 with open("README.md", "w", encoding='utf-8') as f :
   f.write(resultREADME)
