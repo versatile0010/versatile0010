@@ -1,13 +1,17 @@
-**Jaehyeon Lee**
+### Jaehyeon Lee
 
 Software Engineer | Kotlin Enthusiast 🚀
 
-" Reliable backends. Simplifying complexity. Impack to business! "
+
+1. Reliable backends
+2. Simplifying complexity
+3. Impack to business
+
 
 - `Kotlin`, `Java`
 - `Spring Boot`, `Ktor`
-- `JPA/Hibernate`, `Querydsl`, `Exposed`, `MySQL`
-- `Redis`, `MongoDB`, `Opensearch`
+- `JPA/Hibernate`, `Querydsl`, `Exposed`
+- `MySQL`, `Redis`, `MongoDB`, `Opensearch`
 - `AWS`, `Docker`
 
 
