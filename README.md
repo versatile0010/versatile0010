@@ -15,4 +15,5 @@ Software Engineer | Kotlin Enthusiast 🚀
 - `AWS`, `Docker`
 
 
- 
+Contact
+- wogusn@gmail.com
