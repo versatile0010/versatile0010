@@ -1,6 +1,6 @@
 ### Jaehyeon Lee
 
-Software Engineer | Kotlin Enthusiast 🚀
+Software Engineer (Backend) | Kotlin Lover 🚀
 
 
 1. Reliable backends
